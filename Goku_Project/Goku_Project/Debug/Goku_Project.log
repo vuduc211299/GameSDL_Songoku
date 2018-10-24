@@ -1,0 +1,33 @@
+﻿  Main.cpp
+d:\visual studio code\goku_project\goku_project\main.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(124): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(167): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(211): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(212): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(242): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(262): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(291): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(301): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(321): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(343): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(373): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(422): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(423): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(457): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(458): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(481): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(492): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(493): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(519): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio code\goku_project\goku_project\main.cpp(529): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(530): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(566): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(567): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\visual studio code\goku_project\goku_project\main.cpp(69): warning C4101: 'check': unreferenced local variable
+  Goku_Project.vcxproj -> D:\visual studio code\Goku_Project\Debug\Goku_Project.exe
